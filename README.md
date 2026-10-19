@@ -93,6 +93,7 @@ cd marvellous-python-tutor
 
 It is recommended to use a Python virtual environment for this project.
 
+---
 ## 1. Create a Virtual Environment
 
 From the project directory:
@@ -883,4 +884,5 @@ This project was developed as part of learning and experimenting with:
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
-```
+
+---
